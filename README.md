@@ -2,7 +2,7 @@
 
 立足燕园，解放清华 20201223
 
-**UPDATE 2020/10/18**
+**UPDATE 2021/03/09**
 
 感谢 [hayschan](https://github.com/hayschan) 撰写的[使用文档](https://haysc.tech/2020/10/17/pku-auto-beian/)，强烈推荐在使用本项目前阅读。
 
